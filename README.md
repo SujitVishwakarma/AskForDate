@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Link for the Website : https://ask-for-date-delta.vercel.app
+# Link for the Website : https://ask-for-date-duph.vercel.app
 
 ## Available Scripts
-
+https://ask-for-date-duph.vercel.app/
 In the project directory, you can run:
 
 ### `npm start`
